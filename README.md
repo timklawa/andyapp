@@ -2,7 +2,7 @@
 
 ## Your Personal Assistant for Everyday Tasks
 
-AndyApp is designed to simplify your life by providing a seamless and intuitive user experience. Whether you're managing your schedule, setting reminders, or organizing your tasks, AndyApp is here to help you stay on top of everything with ease.
+AndyApp2 is designed to simplify your life by providing a seamless and intuitive user experience. Whether you're managing your schedule, setting reminders, or organizing your tasks, AndyApp is here to help you stay on top of everything with ease.
 
 ### Why Choose AndyApp?
 - **User-Friendly Interface**: Our clean and modern design ensures that you can navigate through the app effortlessly, making task management a breeze.
